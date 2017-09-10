@@ -1,4 +1,4 @@
-#Lost in Jungle
+# Lost in Jungle
 
 ## Created for the [JS13K](http://js13kgames.com) competition of 2017
 
